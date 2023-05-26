@@ -1,0 +1,88 @@
+ <!-- // -->
+
+            <section class="section section-team bg-light-alt" id="teams">
+                <div class="container">
+                    <!-- Section Head @s -->
+                    <div class="section-head text-center wide-auto">
+                        <h2 class="title title-lg title-dark">Team Members</h2>
+                    </div><!-- .section-head @e -->
+                    <!-- Block @s -->
+                    <div class="nk-block nk-block-team-list team-list">
+                        <div class="row justify-content-center">
+                            <div class="col-md-4 col-6">
+                                <div class="team">
+                                    <div class="team-photo team-photo-sm">
+                                        <img src="images/team/1.png" alt="team">
+                                        <ul class="team-social">
+                                            <li><a href="https://t.me/adamdaffinai"><em class="fab fa-telegram"></em></a></li>
+                                        </ul>
+                                    </div>
+                                    <h5 class="team-name title title-sm">Adam Daffin</h5>
+                                    <span class="team-position">CEO &amp; Founder</span>
+                                </div>
+                            
+                            </div><!-- .col -->
+                           
+                            <div class="col-md-4 col-6">
+                                <div class="team">
+                                    <div class="team-photo team-photo-sm">
+                                        <img src="images/team/3.jpeg" alt="team">
+                                        <ul class="team-social">
+                                            <li><a href="https://t.me/granthartleya"><em class="fab fa-telegram"></em></a></li>
+                                        </ul>
+                                    </div>
+                                    <h5 class="team-name title title-sm">Grant Hartley</h5>
+                                    <span class="team-position">Chief Marketing Manager</span>
+                                </div>
+                               
+                            </div><!-- .col -->
+                            <div class="col-md-4 col-6">
+                                <div class="team">
+                                    <div class="team-photo team-photo-sm">
+                                        <img src="images/team/4.jpg" alt="team">
+                                        <ul class="team-social">
+                                            <li><a href="https://t.me/HubertAi"><em class="fab fa-telegram"></em></a></li>
+                                        </ul>
+                                    </div>
+                                    <h5 class="team-name title title-sm">Hubert Webb</h5>
+                                    <span class="team-position">Community Manager</span>
+                                </div>
+                               
+                            </div><!-- .col -->
+                            <div class="col-md-4 col-6">
+                                <div class="team">
+                                    <div class="team-photo team-photo-sm">
+                                        <img src="images/team/5.avif" alt="team">
+                                    </div>
+                                
+                                    <h5 class="team-name title title-sm">Piers Pearce</h5>
+                                    <span class="team-position">Chief Technology Officer</span>
+                                </div>
+                            
+                            </div><!-- .col -->
+                          
+                            <div class="col-md-4 col-6">
+                                <div class="team">
+                                    <div class="team-photo team-photo-sm">
+                                        <img src="images/team/7.jpg" alt="team">
+                                    </div>
+                                    <h5 class="team-name title title-sm">Megan Geis</h5>
+                                    <span class="team-position">Marketing Manager</span>
+                                </div>
+                            
+                            </div><!-- .col -->
+                            <div class="col-md-4 col-6">
+                                <div class="team">
+                                    <div class="team-photo team-photo-sm">
+                                        <img src="images/team/8.avif" alt="team">
+                                    </div>
+                                    <h5 class="team-name title title-sm">Brad Howell</h5>
+                                    <span class="team-position">Marketing Man</span>
+                                </div>
+                            
+                            </div><!-- .col -->
+                        </div><!-- .row -->
+                    </div>
+                    <!-- Block @r -->
+                </div>
+            </section>
